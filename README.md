@@ -1,5 +1,5 @@
-# SudokuGame
-A sudoku game.
+# SudokuGameByTeamThree
+A sudoku game generator with error tracking that uses touch screen technology to write-in solutions.
 
 Collaborators:
 Courson, Elizabeth	Project Manager		ec268930@my.stchas.edu
