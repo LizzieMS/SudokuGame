@@ -1,5 +1,5 @@
 # SudokuGameByTeamThree
-A sudoku game generator with error tracking that uses touch screen technology to write-in solutions.
+A sudoku game generator with error tracking that can detect if the player is cheating.
 
 Collaborators:
 Courson, Elizabeth	Project Manager		ec268930@my.stchas.edu
